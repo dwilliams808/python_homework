@@ -5,7 +5,7 @@ def hello():
 #Task 2: Greet with a Formatted String
 def greet(name):
     return f"Hello, {name}!"
-greet("DaiGi")
+greet("DaiGianna")
 
 #Task 3: Calculator
 def calc(value1, value2, operation="multiply"):
